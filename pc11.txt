@@ -1,0 +1,9 @@
+AMD Ryzen 5 5600 Processo:14300/20000
+ASUS TUF GAMING B450M-PRO:12900/16500
+FSP Hydro K PRO 750W 80 Plus Bronze Power Supply:6500
+G.Skill Trident Z 16GB DDR4 3200MHz RGB Desktop RAM:5800/7700
+Samsung 970 EVO Plus 500GB NVMe M.2 SSD:4699
+HP X24ih 24'' 144Hz FreeSync IPS Full HD Gaming Monitor:22400
+Gamdias ATHENA M6 LITE WH Mid-Tower ATX Gaming Casing:6250
+MaxGreen MG-LI-EAP 1200VA Offline UPS:6700
+Intel Arc A750 Limited Tiger Gold Edition 8GB GDDR6 Graphics Card:32500
